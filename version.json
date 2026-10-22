@@ -1,7 +1,7 @@
 {
-  "version_code": 20,
-  "stamp": "Market Pam 1.0 · v20",
-  "notes": "1) Gwoup: ou ka ajoute lòt moun nan yon gwoup ki deja egziste — louvri gwoup la, peze non l anlè a, epi « Ajoute manm ». Pa bezwen kreye yon dezyèm gwoup. 2) Lis mesaj yo montre kounye a yon ti chif vèt ak kantite mesaj ou poko li nan chak diskisyon — depi w antre li yo, chif la disparèt.",
+  "version_code": 21,
+  "stamp": "Market Pam 1.0 · v21",
+  "notes": "Vitès ak estabilite: paj yo pa refresh ankò lè w chanje onglè (yo louvri touswit), foto yo pi lejè pou app la mache pi vit, epi yon pwoteksyon pou app la pa janm fèmen ni lage w deyò yon diskisyon pou kont li.",
   "apk_url": "MarketPam.apk",
   "published_at": "2026-10-21",
   "grace_days": 7
