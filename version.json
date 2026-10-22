@@ -1,7 +1,7 @@
 {
-  "version_code": 22,
-  "stamp": "Market Pam 1.0 · v22",
-  "notes": "Nouvo: REYAKSYON sou mesaj yo! Peze yon mesaj epi kenbe dwèt ou: chwazi yon emoji oswa ekri yon ti reyaksyon — li parèt anba mesaj la, epi mèt mesaj la resevwa yon notifikasyon. Peze menm emoji a ankò pou w retire reyaksyon an. (Vitès ak estabilite v21 yo ladan l tou.)",
+  "version_code": 23,
+  "stamp": "Market Pam 1.0 · v23",
+  "notes": "REYAKSYON yo vin pi fasil: KLIKE sou nenpòt mesaj — tèks, foto oswa mesaj vokal — epi emoji reyaksyon yo parèt touswit. Chwazi yon emoji oswa ekri reyaksyon pa w la; li parèt anba mesaj la, nan chat prive kou nan gwoup. Mèt mesaj la resevwa yon notifikasyon.",
   "apk_url": "MarketPam.apk",
   "published_at": "2026-10-21",
   "grace_days": 7
